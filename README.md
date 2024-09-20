@@ -1,4 +1,4 @@
-TThis is a fun Little javascript game project I made called "Rocky Ride"
+This is a fun Little javascript game project I made called "Rocky Ride"
 It's a motocross game to challenge yourself on the score and time.
 Good luck and Have fun!
 
